@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my first flutterproject from scratch.
 
-A few resources to get you started if this is your first Flutter project:
+## Room for imprrovement:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Replace Grdview with CustomPainter --> better Performance
+2. enable ininite scrolling (after step 1)
+3. safe the different starting configurations (maybe just parts like gliders)
+4. improve ```javascript
+calCulateNextGeneration()
+``` performancewise
